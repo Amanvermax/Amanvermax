@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amanvermax
-- 👀 I’m interested in Data analyst, Data scientist
-- 🌱 I’m currently learning python, sql and BI tools like PowerBi
+- 👀 I’m interested in Data analysis and Data science.
+- 🌱 I’m currently learning Python, SQL, and BI tools like PowerBI.
 - 💞️ I’m looking to collaborate on projects related to data analysis and visualization.
 - 📫 How to reach me (amyverma117@gmail.com)
 - 😄 Pronouns: he/him
